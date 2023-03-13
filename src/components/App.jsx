@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import {FeedbackOptions } from "./feedback/feedbackOptions";
-import { Section } from "./masterForm/masterForm";
+import { Section } from "./Section/Section";
 import { Notification } from "./notification/notification";
 import { Statistics } from "./statistics/statistics";
 
